@@ -1,1 +1,1 @@
-[![Perfo's GitHub stats](https://github-readme-stats.vercel.app/api?username=PerfoCzech&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&icon_color=9A0680&bg_color=22272e&text_color=eeeeee&title_color=eeeeee)](https://github.com/anuraghazra/github-readme-stats)
+[![Perfo's GitHub stats](https://github-readme-stats.vercel.app/api?username=PerfoCzech&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&icon_color=9A0680&bg_color=9A0680&text_color=eeeeee&title_color=eeeeee)](https://github.com/anuraghazra/github-readme-stats)
